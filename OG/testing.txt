@@ -1,0 +1,12 @@
+This is a test of the emergency broadcast system.
+I think I fixed the system.
+I believe you're right.
+1-8.4+0!9,6^9
+I wiped the file, my bad. Testing a possible fix.
+no fix yet, tryin again
+this should friggin work
+pretty sure it is the git environment variable. still trying
+this is really pissing me off, here we go again
+
+Hi, Chris!!!
+Hi, Joe!!!!!!!
